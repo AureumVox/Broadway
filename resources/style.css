@@ -17,10 +17,14 @@ h1 {
 	text-align: center;
 }
 
-.nav a {
+.nav li {
 	font-size: 18px;
-	color: white;
-	position: relative;
+    position: relative;
+    padding: 7px;
+    list-style-type: none;
+}
+.nav a{
+    color: white;
 }
 
 .home {
